@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+    <title>Students</title>
+</head>
+
+<body>
+    <h1>Students</h1>
+<ul>
+    <li><h2>Current Students</h2></li>
+    <ul>
+    <li><h3>Third year students</h3></li>
+
+    Jordan
+    Justin
+    Kaitlyn Sparks
+
+    <li><h3>Honours students</h3></li>
+
+    Megan Cole - Spiking Neural Networks
+    Siphelele Danisa - Renormalisation group and deep learning
+    Jeremy Du Plessis - Attention and Hopfield networks
+    St John - Causal inference
+    Claude Formanek - GNNs
+    Bram Schönfeldt - GRBs
+
+    <li><h3>AIMS essay students</h3> </li>
+
+
+
+   <li><h3>Masters students</h3></li>
+    Lizelle Niit - Computational psychiatry (leave of absence)
+    Al Zahraa Farrag - quantum information geometry
+    Mashudu Mokhithi - mindset and mathematics pedagogy
+    Daniel Taylor
+    Tom Makkink
+    Dean Rance
+
+    Zach Wolpe
+
+
+
+    <li><h3>PhD students</h3></li>
+    Emma Platts - FRB detection using neural networks
+    Anthony Sayster - maths education
+    Rorisang Sitoboli - with Katie Cole
+    Ruach Slayern - quantum states on closed surfaces
+
+
+
+    </ul>
+
+    <li><h2>Graduated students</h2></li>
+    <ul>
+    <li><h3>AIMS essay students</h3></li>
+
+    Yasser Salah Eddine Bouchareb - automatics detection of vegetation (2018)
+    Al Zahraa Farrag - information geometry (2014)
+    Mohammad Mansour - knots of light (2015)
+    Morris Munyoka - Image segmentation for medical imaging
+    Reinforcement learning
+    Linda Agyapomah Osei - Agyare - Reinforcement learning
+    Roger Jeasy Bavibidila - Reinforcement learning
+    Grace - GNNs and Covid
+
+    <li><h3>Third years</h3></li>
+
+    Jeremy Du Plessis
+    Siphelele Danisa
+    Kabelo Serage
+
+    Robert Spencer - physics of hanging strings
+    Tslil Clingman - information geometry
+    Lizelle Niit - models of action potentials
+    Sam Wolksi - The quantum Hall Effect
+
+    Cara Pienaar - information geometry
+    Kyle Levin - information geometry
+    Dylan Nelson - Minimal surfaces in hyperbolic space
+    Chris Finlay - Deep learning and facial recognition
+    Ryan Le Roux - Hawking Radiation
+    Christoffel Goosen - Information Geometry
+
+    Dimakatso Rapotu - Quantising the open string
+    Jean-Jacques Du Plessis - Quantum computation and quantum information
+    Sithembiso Mashinini - Quantum computation and quantum information
+    Mita Ramabulana - Quantum computation and quantum information
+    Quincy Mmako - Image segmentation
+    Duncan Robertson - topological data analysis
+    Dumisani Zitha - Quantum computation - Shor’s algorithm
+
+    <li><h3>Honours</h3></li>
+
+    Sabina Steffen - EEG data analysis
+    Robert Spencer - tensor networks
+    Lauren Denny - tensor networks
+    Tslil Clingman - information geometry
+    Emma Platts - information geometry
+    Lizelle Niit - The avian compass
+    Dean Rance - Maximization of information transfer in neural channels
+    Cara Pienaar - Differential equation models for malaria: sensitivity to model formulation
+    Dominic Bauer - Recommender systems
+    Luke Taylor - reinforcement learning and control theory
+    Jason Connie - quantum information theory
+    Storm Johnson - PET scans
+    Darien Hillebrand - GANs
+    Daniel Taylor - Deep Taylor Decomposition
+    Logan Guildenhuys - the universal function approximation theorem
+    Jibran Bodra - with Tom Dietel - ANNs and particle data
+    Jeremy Wilkinson - with Tom Dietel - ANNs and particle data
+
+
+    <li><h3>Masters</h3></li>
+
+    Alex Antrobus
+    Tslil Clingman
+    Alistair Grant-Stewart
+    Ruach Slayern - The quantum hall effect on a deformed sphere
+    Alexes Mes - light string thermal fluctuations
+    Jean-Gabriel - quantum chaos
+    Vladimir Makic - Rhino/poacher dynamics
+
+
+
+    <li><h3>PhD</h3></li>
+
+    Justine Tarrant
+    </ul>
+</ul>
+
+
+</body>
+
+
+
+</html>
